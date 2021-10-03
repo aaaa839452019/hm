@@ -49,7 +49,7 @@ import java.util.ArrayList;
  * MainAbilitySlice
  */
 public class MainAbilitySlice extends AbilitySlice {
-    private String TAG8 = "MainAbilitySlice333333338" ;
+    private String TAGa = "Maaaaaa" ;
     private static final String TAG = MainAbilitySlice.class.getSimpleName();
 
     private static final HiLogLabel LABEL_LOG = new HiLogLabel(3, 0xD000F00, TAG);
