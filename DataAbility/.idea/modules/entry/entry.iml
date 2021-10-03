@@ -44,8 +44,8 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../entry">
       <sourceFolder url="file://$MODULE_DIR$/../../../entry/build/generated/source/annotation/debug" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../entry/build/generated/source/idl" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../../entry/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../entry/build/generated/source/idl" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../../entry/build/intermediates/merge_res/debug/original_res/res" type="java-resource" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../../entry/src/debug/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../../entry/src/debug/idl" isTestSource="false" />
