@@ -1,0 +1,22 @@
+/**
+ * 设置左列表数据
+ */
+private void initAllList() {
+    allList = new ArrayList<>();
+    AllListBean bean = new AllListBean("英雄联盟", true);
+    allList.add(bean);
+    AllListBean bean1 = new AllListBean("仙剑奇侠传", false);
+    allList.add(bean1);
+    AllListBean bean2 = new AllListBean("大航海时代", false);
+    allList.add(bean2);
+    AllListBean bean3 = new AllListBean("太阁立志传", false);
+    allList.add(bean3);
+    AllListBean bean4 = new AllListBean("战国无双", false);
+    allList.add(bean4);
+    AllListBean bean5 = new AllListBean("三国志", false);
+    allList.add(bean5);
+    AllListBean bean6 = new AllListBean("最终幻想", false);
+    allList.add(bean6);
+    AllListBean bean7 = new AllListBean("幻想传说", false);
+    allList.add(bean7);
+}
